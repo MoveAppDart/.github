@@ -60,11 +60,6 @@ This GitHub organization consists of multiple repositories:
 - **Infrastructure & DevOps** (Docker, Kubernetes, CI/CD):
 - **Landing Page & Documentation**: 
 
-## 🔥 Future Enhancements
-- **Integration with wearable devices** (Apple Watch, Fitbit, etc.).
-- **Social features** (friend leaderboards, challenges, sharing workouts).
-- **Dark mode & customizable UI themes**.
-
 ## 🚀 Get Started
 The app is currently under development. Stay tuned for updates on our roadmap!
 
